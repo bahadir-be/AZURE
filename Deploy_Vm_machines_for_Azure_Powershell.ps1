@@ -10,7 +10,7 @@ Login-AzAccount
 
 Get-AzSubscription 
 # Select Subscription from list
-Select-AzSubscription -Subscription "02c48a3b-8044-4630-9e40-60f25ddf05d2" # Please change it!
+Select-AzSubscription -Subscription "XXXXXXXX-XXXXXX-XXX-XXXXXXXXXX" # Please change it!
 
 # Variables for common values
 $resourceGroup=Read-Host "Type name for create a new Resource Group?"
