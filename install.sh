@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 # Platform Linux (ubuntu 18.04)
 # VM : Standard D2s v3 (2 vcpus, 8 GiB memory)
